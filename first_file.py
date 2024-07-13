@@ -1,5 +1,3 @@
-print('First repository')
+import math
 
-print('Some local changes')
-
-print(28 * 5)
+print(math.factorial(5))
